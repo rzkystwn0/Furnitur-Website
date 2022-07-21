@@ -46,7 +46,7 @@ export default function Product() {
       <p className="text-center text-[#FFB23F] text-base inter">Products</p>
       <p className="font-bold sm:text-4xl inter text-center py-2">Our popular products</p>
       <p className="text-xl text-black/60 inter text-center sm:w-4/12 mx-auto pb-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-      <div className="my-14">
+      <div className="my-14 sm:12/12 w-10/12 mx-auto">
         <Slider {...settings}>
           <div className="w-4/12">
             <div className="sm:w-8/12 w-10/12 mx-auto">

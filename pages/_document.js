@@ -9,7 +9,7 @@ export default function Document() {
         <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet" />
       
       </Head>
-      <body className="dark:bg-black">
+      <body className="">
         <Main />
         <NextScript />
       </body>

@@ -42,7 +42,7 @@ export default function Product() {
   };
 
   return (
-    <div className="container sm:px-0 py-2 my-24">
+    <div className="container px-4 sm:px-0 py-2 my-24">
       <p className="text-center text-[#FFB23F] text-base inter">Products</p>
       <p className="font-bold sm:text-4xl inter text-center py-2">Our popular products</p>
       <p className="text-xl text-black/60 inter text-center sm:w-4/12 mx-auto pb-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>

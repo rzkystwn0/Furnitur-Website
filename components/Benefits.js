@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Benefits() {
   return (
-    <div className="container sm:py-0 mx-auto px-2 my-24 ">
+    <div className="container px-4 sm:py-0 mx-auto  my-24 ">
       <div className="sm:flex">
         <div className="sm:w-6/12 sm:mb-0 mb-4">
           <p className="text-[#FFB23F] text-md inter">Benefits</p>

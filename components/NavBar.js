@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function () {
   return (
     <div className="border-b">
-      <div className="flex container mx-auto items-center justify-between">
+      <div className="flex container mx-auto items-center justify-between px-4">
         <Image src="/logo.svg" height={100} width={100} />
         <div className="hidden md:block">
           <ul className="flex inter text-base font-medium">

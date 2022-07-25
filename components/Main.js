@@ -1,6 +1,6 @@
 export default function Main() {
   return (
-    <div className="container sm:px-0 px-2 mx-auto">
+    <div className="container sm:px-0 px-4 mx-auto">
       <div className="sm:w-8/12 mx-auto">
         <p className="sm:text-6xl text-4xl mt-16 inter font-bold text-center">Discover Furniture With Hight Quality Wood</p>
         <p className="sm:text-md my-6 inter text-center text-black/60">
